@@ -1,5 +1,5 @@
 # pythonStatistics
-Programação na linguagem *Python* para realizar **_Estatística_**
+Programação na linguagem *Python* para realizar **_Estatística_**.
 
 **_Leonardo Damasio_**
 
