@@ -1,5 +1,5 @@
 # pythonStatistics
-Programação na linguagem *Python* para realizar **_Estatística_**.
+Programação de **_Técnicas Estatísticas_** em *Python*.
 
 **_Leonardo Damasio_**
 
@@ -7,7 +7,7 @@ Programação na linguagem *Python* para realizar **_Estatística_**.
 
 Antes de tudo, obrigado pelo interesse em meu repositório!
 
-Estes são alguns dos modelos de **_Estatística_** que aprendi a realizar ao longo da minha jornada em **_Data Science_**. 
+Estas são algumas das **_Técnicas Estatísticas_** que aprendi a realizar ao longo da minha jornada em **_Data Science_**. 
 
 Você também encontrará as bases utilizadas para realizar cada modelo. 
 
