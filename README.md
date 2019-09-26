@@ -13,7 +13,7 @@ Você também encontrará as bases utilizadas para realizar cada modelo.
 
 Sendo assim, fique a vontade para testá-los :)
 
-Todos os modelos foram feitos através da linguagem *Python* ou linguagem *R* no **Jupyter Lab**.
+Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no **Jupyter Lab**.
 
 Algumas das bibliotecas utilizadas em Python foram `Pandas`, `NumPy`, `Scikit-Learn`, `SciPy` e `MatPlotLib`.
 
