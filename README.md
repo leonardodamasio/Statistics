@@ -15,7 +15,9 @@ Sendo assim, fique a vontade para testá-los :)
 
 Todos os modelos foram feitos através da linguagem *Python* ou linguagem *R* no **Jupyter Lab**.
 
-Algumas das bibliotecas utilizadas foram `Pandas`, `NumPy`, `Scikit-Learn`, `SciPy` e `MatPlotLib`.
+Algumas das bibliotecas utilizadas em Python foram `Pandas`, `NumPy`, `Scikit-Learn`, `SciPy` e `MatPlotLib`.
+
+Já em R, foram utilizadas as bibliotecas `sampling`, `TeachingSampling` e `outliers`, 
 
 Qualquer dúvida, favor entrar em contato:
 
