@@ -1,4 +1,4 @@
-# pythonStatistics
+# Statistics.py
 Programação de **_Técnicas Estatísticas_** em *Python*.
 
 **_Leonardo Damasio_**
