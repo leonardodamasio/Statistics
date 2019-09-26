@@ -23,4 +23,4 @@ leoleonardo1996@hotmail.com
 
 (11) 98783-3949
 
-![](https://i.udemycdn.com/course/750x422/2035958_8886_2.jpg)
+![](https://dinamicaglobal.files.wordpress.com/2012/01/statistical_page.jpg?w=1400)
