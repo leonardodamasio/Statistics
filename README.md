@@ -17,7 +17,7 @@ Todos os modelos foram feitos através da linguagem *Python* e linguagem *R* no 
 
 Algumas das bibliotecas utilizadas em Python foram `Pandas`, `NumPy`, `Scikit-Learn`, `SciPy` e `MatPlotLib`.
 
-Já em R, foram utilizadas as bibliotecas `sampling`, `TeachingSampling` e `outliers`, 
+Já em R, foram utilizadas as bibliotecas `sampling`, `TeachingSampling` e `outliers`.
 
 Qualquer dúvida, favor entrar em contato:
 
